@@ -4,8 +4,6 @@ include_once './conexao.php';
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Celke - Listar</title>
     </head>
     <body>
         <a href="index.php">Listar</a><br>
